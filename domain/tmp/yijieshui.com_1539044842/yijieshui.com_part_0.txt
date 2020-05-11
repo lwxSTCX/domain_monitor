@@ -1,0 +1,2 @@
+www.yijieshui.com             	106.39.166.79
+test.yijieshui.com            	172.11.13.1
