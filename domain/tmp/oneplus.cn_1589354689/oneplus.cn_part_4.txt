@@ -1,0 +1,2 @@
+photos.oneplus.cn             	125.88.171.185
+data.oneplus.cn               	10.88.171.175

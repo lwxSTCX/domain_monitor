@@ -200,7 +200,7 @@ def main():
                 print (subdomain)
 
             subdomains.extend(lines)
-            fp = open(args.output,"wb")
+            fp = open(args.output,"a+")
             #fp.writelines("\n".join(subdomains).decode("utf-8"))
             fp.writelines("\n".join(subdomains).encode("utf-8"))
 

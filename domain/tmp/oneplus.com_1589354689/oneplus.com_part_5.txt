@@ -1,0 +1,2 @@
+content.oneplus.com           	23.64.181.225
+live.oneplus.com              	23.64.181.225

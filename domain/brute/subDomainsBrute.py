@@ -315,6 +315,6 @@ class SubNameBrute:
 
 
 if __name__ == '__main__':
-    d = SubNameBrute(target='qpgame.com')
+    d = SubNameBrute(target=domain)
     d.run()
     print d.result_lines
